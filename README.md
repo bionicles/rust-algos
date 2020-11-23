@@ -1,7 +1,7 @@
 # rust-algos
 
-- [] Hello World
-- [] FizzBuzz
+- [X] Hello World
+- [X] FizzBuzz
 - [] Arrays / Vectors
 - [] Strings
 - [] Singly Linked List
