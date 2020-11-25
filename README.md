@@ -1,8 +1,8 @@
 # rust-algos
 
-- [X] Hello World
-- [X] FizzBuzz
-- [] Arrays / Vectors
+- [x] Hello World
+- [x] FizzBuzz
+- [x] Arrays / Vectors
 - [] Strings
 - [] Singly Linked List
 - [] Doubly Linked List
@@ -23,6 +23,6 @@
 - [] Recursion
 - [] Dynamic Programming (Memoization)
 - [] Breadth-First Search
-- [] Depth-First Search	
+- [] Depth-First Search
 - [] Dijkstra's Algorithm
-- [] A* / Heuristic search
+- [] A\* / Heuristic search
